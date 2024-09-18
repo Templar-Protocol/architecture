@@ -6,6 +6,7 @@ Links below are to the MermaidChart editor and svg images which are the most rec
 
 ### Contract
 Class Diagram: https://www.mermaidchart.com/raw/69982323-4832-4a2d-b71c-74b96946e49a?theme=light&version=v0.1&format=svg
+Class Diagram sans FT, NFT methods: https://www.mermaidchart.com/raw/8c754536-e13e-4a9e-afcd-ab16a63a027c?theme=light&version=v0.1&format=svg
 
 ### State Machines
 Recovery Mode: https://www.mermaidchart.com/raw/76b0fc2d-b0e2-4966-afff-d4354221bd9c?theme=light&version=v0.1&format=svg 
@@ -20,6 +21,7 @@ NOTE: you need to be invted via email to actually edit.
 
 ### Contract
 Class Diagram: https://www.mermaidchart.com/app/projects/e5bd6e68-183c-4160-9ef4-57dca0c357ec/diagrams/69982323-4832-4a2d-b71c-74b96946e49a/version/v0.1/edit
+Class Diagram sans FT, NFT methods: https://www.mermaidchart.com/app/projects/e5bd6e68-183c-4160-9ef4-57dca0c357ec/diagrams/8c754536-e13e-4a9e-afcd-ab16a63a027c/version/v0.1/edit
 
 ### State Machines
 Recovery Mode: https://www.mermaidchart.com/app/projects/e5bd6e68-183c-4160-9ef4-57dca0c357ec/diagrams/76b0fc2d-b0e2-4966-afff-d4354221bd9c/version/v0.1/edit
